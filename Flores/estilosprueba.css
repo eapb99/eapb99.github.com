@@ -1,0 +1,63 @@
+/*body{
+    font-size: 62.5%;
+}*/
+h1{
+    /*+ackground-color: coral;*/
+    width: 400px ;
+    margin: 15px auto;
+    padding: 25px ;
+    text-align: center;
+    color : white ;
+    border: skyblue  solid;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: #00f 8px 8px 10px;
+    font-size: 25px;
+    background: -webkit-linear-gradient( bottom, blue ,#0CF);
+    text-shadow: #00f 5px 5PX 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 20px 0px 0px 0px;
+    color: black;
+    font-size: 100%;
+}
+section{
+    width: 91%;
+    border-top: 1px dashed grey ;
+    margin: 25px auto;
+}
+figure img{
+    background: grey;
+    padding: 4px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: grey 5px 5px 5px;
+}
+figure img:hover{
+    -webkit-transform: scale(1.1);
+    -webkit-transition: -webkit-transform 0.3s ease-in-out 0.1s;
+
+}
+figure figcaption{
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top : 4px;
+}
+
+figure{
+    float: left;
+}
+
+footer{
+    clear: both;
+    padding-top: 100px;
+    font-size: 0.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    margin: 10px 10p;
+}
+
